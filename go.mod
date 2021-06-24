@@ -1,3 +1,3 @@
-module github.com/gorilla/schema
+module github.com/rsergeychik/schema
 
 go 1.14
